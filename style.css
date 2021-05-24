@@ -1,0 +1,42 @@
+* {
+    font-family: Helvetica;
+}
+
+.navbar-custom {
+    background-color: #C09090;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text,
+.navbar-custom .nav-link {
+    color: #F0EADD
+}
+
+.jumbotron {
+    background-color: #F4BFAF !important;
+}
+
+.display-4,
+.lead {
+    color:gray;
+}
+
+#about {
+    background-color: #B6ADAD;
+}
+
+#card-body {
+    background-color: #F0EADD;
+}
+
+#card {
+    background-color: #F0EADD;
+}
+
+.btn-primary {
+    background-color: #C09090 !important;
+    border-color: #C09090 !important;
+}
+
+
+
